@@ -1,5 +1,10 @@
 ***
 # Mongoose
+![honk.png](assets/honk.png)
+
+![Sonatype Nexus (Releases)](https://img.shields.io/nexus/r/games.negative.mongoose/mongoose?server=https%3A%2F%2Frepo.negative.games&nexusVersion=3&logo=sonatype&label=version)
+![Discord](https://img.shields.io/discord/822346437240815656?logo=discord&label=discord)
+
 **mongoose** is a simple MongoDB helper to allow you to easily connect, collect and interact with your MongoDB database. honk honk
 ***
 # Installation Process
