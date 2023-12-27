@@ -28,7 +28,7 @@
     <groupId>org.mongodb</groupId>
     <artifactId>mongodb-driver-sync</artifactId>
     <version>4.11.0</version>
-    <scope>provided</scope>
+    <scope>compile</scope>
 </dependency>
 ```
 
